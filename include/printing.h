@@ -1,6 +1,6 @@
 #ifndef PRINTING_H
 #define PRINTING_H
-
+#include <iostream>
 #include <array>
 #include <string>
 #include "constants.h"
