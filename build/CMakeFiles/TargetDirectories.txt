@@ -1,0 +1,4 @@
+/home/inshuti-landry/lab03-gradebook/build/CMakeFiles/gradebook_lib.dir
+/home/inshuti-landry/lab03-gradebook/build/CMakeFiles/gradebook.dir
+/home/inshuti-landry/lab03-gradebook/build/CMakeFiles/edit_cache.dir
+/home/inshuti-landry/lab03-gradebook/build/CMakeFiles/rebuild_cache.dir

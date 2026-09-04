@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgradebook_lib.a CMakeFiles/gradebook_lib.dir/src/utilities.cpp.o CMakeFiles/gradebook_lib.dir/src/printing.cpp.o CMakeFiles/gradebook_lib.dir/src/grading.cpp.o
+/usr/bin/ranlib libgradebook_lib.a
